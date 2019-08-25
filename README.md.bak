@@ -4,7 +4,7 @@ CXF集成到spring中 支持soap1.1 也可支持soap1.2
 1.此项目为maven项目 需搭建maven环境
 2.项目支持CXF集成到spring中
 3.也可以用于普通web项目集成
-主要需要jar包 jar包资源
+主要需要jar包
 aopalliance-1.0.jar
 asm-3.3.1.jar
 commons-logging-1.2.jar
